@@ -22,3 +22,6 @@ git branch "branchname"
 
 
 git checkout "branchname"
+
+
+adding new branching
