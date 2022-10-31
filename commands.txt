@@ -4,6 +4,6 @@ git status
 
 git add file_name
 
-git commit "message"
+git commit -m "message"
 
 git status
